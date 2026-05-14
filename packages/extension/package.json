@@ -1,0 +1,7 @@
+{
+  "name": "@linden/extension",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Linden browser extension — Phase 2 scaffold lives here.",
+  "license": "MIT"
+}

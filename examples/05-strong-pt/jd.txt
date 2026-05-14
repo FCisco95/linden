@@ -1,0 +1,25 @@
+Engenheiro(a) de Dados Sénior — Plataforma de Analytics
+
+Estamos a contratar um(a) Engenheiro(a) de Dados Sénior para liderar a plataforma de analytics que alimenta dashboards executivos, modelos de marketing e experimentação.
+
+Responsabilidades
+- Desenhar e operar pipelines em Airflow (~200 DAGs) com dbt sobre Snowflake
+- Garantir SLAs de frescura dos dados críticos (vendas, retenção, CAC) — atualmente 6h, queremos 1h
+- Definir e impor padrões de modelagem (camadas staging/intermediate/marts) e testes de qualidade
+- Mentorar 2 engenheiros de dados júnior
+- Trabalhar com equipas de produto na instrumentação de eventos (Snowplow, internamente "Pulse")
+
+Requisitos
+- 5+ anos a construir pipelines de produção em ambiente cloud
+- Forte em SQL avançado (janela, CTEs recursivas, particionamento)
+- Experiência prática com dbt, Airflow (ou equivalente) e Snowflake/BigQuery/Redshift
+- Python para lógica de transformação fora do SQL
+- Capacidade comprovada de definir convenções de modelagem que outros adoptam
+- Conforto com revisão de código e pareceres técnicos por escrito
+
+Vantajoso
+- Experiência com data quality frameworks (Great Expectations, Soda)
+- Conhecimento de Looker semantic layer (LookML)
+- Exposição a CDC (Debezium, Fivetran) para captura de dados transacionais
+
+Localização: Lisboa (híbrido 2 dias/semana) ou totalmente remoto em Portugal/Espanha.

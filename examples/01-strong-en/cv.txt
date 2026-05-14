@@ -1,0 +1,27 @@
+Mara Holst
+Senior Backend Engineer · Lisbon (open to remote)
+mara.holst@example.com · github.com/maraholst
+
+Summary
+8 years building high-throughput backend services in Go. Last 4 years in payments, owning authorisation, capture and reconciliation pipelines at Helix Pay (Series C, ~$2B annual TPV). Comfortable on-call, comfortable on the page.
+
+Experience
+
+Helix Pay — Staff Backend Engineer (2022 — present)
+- Tech lead for the Authorisation service: Go, gRPC, Postgres, Kafka. p99 110ms under 4k TPS.
+- Designed and shipped the idempotency layer used by all payment-mutation endpoints. Cut duplicate-capture incidents from ~6/quarter to 0 over 18 months.
+- Led migration of the ledger from a single Postgres primary to a partitioned multi-region setup. Wrote the post-mortem playbook the team still uses.
+- On-call rotation, lead 3 mid-level engineers, run weekly schema-migration review.
+
+Helix Pay — Senior Backend Engineer (2020 — 2022)
+- Built the refund and chargeback flows in Go. Integrated with Stripe Connect, Adyen, and our internal acquirer.
+- Drove the move from REST to gRPC for internal service-to-service calls.
+
+Wavefront Systems — Backend Engineer (2017 — 2020)
+- Go services on Kubernetes for B2B logistics. Postgres + Redis. Owned partitioning on the shipments table (~400M rows).
+
+Stack
+Go, Postgres, gRPC/protobuf, Kafka, Kubernetes, Terraform, OpenTelemetry. Reading-level Portuguese; conversational Spanish.
+
+Education
+BSc Computer Science, Universidade do Porto (2014)

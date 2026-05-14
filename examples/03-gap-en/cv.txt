@@ -1,0 +1,23 @@
+Jules Petrov
+Data Scientist · Berlin
+jules.petrov@example.com
+
+Summary
+6 years in data science, focused on analytics, dashboards and ad-hoc modelling for product teams. Recently started learning PyTorch on weekends.
+
+Experience
+
+Klaro Mobility — Senior Data Scientist (2021 — present)
+- SQL/dbt models powering exec dashboards. Look-back analyses on pricing experiments.
+- Built a churn propensity model in scikit-learn (logistic regression). Handed to engineering, never made it to production.
+- Run the weekly product analytics review with leadership.
+
+Fenestra Group — Data Scientist (2019 — 2021)
+- Marketing-mix modelling in R. Customer segmentation work for the CRM team.
+- Wrote one notebook-based recommender prototype (cosine similarity over purchases). Did not ship.
+
+Tools
+SQL (strong), dbt, Python (pandas, scikit-learn), Looker, Tableau. Learning PyTorch via fast.ai (~30% through). No production deep-learning experience. No A/B test infrastructure ownership.
+
+Education
+MSc Statistics, TU Berlin (2018)

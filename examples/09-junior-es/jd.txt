@@ -1,0 +1,23 @@
+Ingeniero(a) de Software Junior — Backend Python
+
+Buscamos un(a) Ingeniero(a) Junior para unirse a nuestro equipo de Plataforma Educativa. Esta posición está pensada para personas con 0-2 años de experiencia profesional, recién graduados/as o con un cambio de carrera reciente.
+
+Responsabilidades
+- Implementar funcionalidades en nuestra API Python (FastAPI) bajo guía de un mentor asignado
+- Escribir tests (pytest) y participar en code reviews
+- Pequeñas mejoras en nuestros scripts de procesamiento de datos
+- Aprender de las personas senior del equipo — no esperamos liderazgo técnico desde el día 1
+
+Requisitos
+- Formación en informática, ingeniería o equivalente práctico (bootcamp, autodidacta)
+- Python a nivel funcional (no necesitas saber FastAPI específicamente, pero sí Python básico)
+- Comprensión de SQL básico
+- Ganas de aprender y de pedir ayuda cuando hace falta
+- Buena comunicación escrita
+
+Vantajoso (pero no requerido)
+- Algún proyecto personal en GitHub
+- Familiaridad con Git
+- Contacto previo con FastAPI, Flask o Django
+
+Localización: Barcelona (3 días/semana presencial). Buenos planes de mentoring y aprendizaje formal.

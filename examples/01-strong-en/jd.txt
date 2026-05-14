@@ -1,0 +1,24 @@
+Senior Backend Engineer — Payments Platform
+
+We're hiring a Senior Backend Engineer to own services in our Payments Platform. You'll work on high-throughput services that move money between buyers, sellers and our settlement partners.
+
+Responsibilities
+- Design and ship Go services that handle payment authorisation, capture, refunds and reconciliation
+- Own service reliability end-to-end: SLOs, on-call rotation, incident write-ups
+- Partner with Risk and Compliance to roll out controls for AML / SCA / PCI scope
+- Mentor 1-2 mid-level engineers on the team
+
+Requirements
+- 6+ years of backend engineering experience
+- Strong Go (or willingness to ramp up fast from another typed language)
+- Production experience with Postgres at scale: indexing, query planning, partitioning, schema migrations
+- gRPC / protobuf service interfaces
+- Hands-on experience operating services on Kubernetes
+- Comfort with payments domain concepts: idempotency, retries, eventual consistency between ledger and processor
+
+Nice to have
+- Prior exposure to PCI-DSS scope or Open Banking APIs
+- Experience designing for multi-region failover
+- Reading/writing Portuguese or Spanish (most of our merchant base is in LATAM and Iberia)
+
+Location: Remote (EU / LATAM time zones), or our Lisbon office.

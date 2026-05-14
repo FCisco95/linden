@@ -1,0 +1,29 @@
+Lucía Renteria Ojeda
+Desarrolladora Backend Junior · Barcelona
+lucia.renteria@example.com · github.com/luciaro
+
+Resumen
+Recién graduada en Ingeniería Informática (junio 2025). Hice un trabajo de fin de grado en Python sobre análisis de datos académicos. Busco mi primera posición profesional como desarrolladora backend.
+
+Experiencia
+
+Prácticas curriculares — Editorial Mensaje (2025, 3 meses)
+- Pequeñas tareas en una API Flask interna. Escribí endpoints CRUD bajo supervisión.
+- Aprendí Git de verdad por primera vez (uso real con PRs y reviews).
+
+Trabajo de fin de grado (2024-2025)
+- "Análisis de patrones de uso en la plataforma educativa de la UPC". Python, pandas, matplotlib.
+- Nota: 8.5/10.
+
+Voluntariado — Asociación Codeando (2023 — actualidad)
+- Doy talleres introductorios de Python para chicas de instituto. ~6 talleres al año.
+
+Proyectos personales (GitHub)
+- "todo-fastapi": pequeña API en FastAPI con SQLite, hecha para aprender la stack. ~120 commits.
+- "datos-renfe": scraper en Python que descarga horarios de Renfe y los guarda en un CSV.
+
+Stack
+Python (pandas, Flask básico, FastAPI básico, pytest), SQL básico (PostgreSQL en clases), Git, Linux a nivel usuario.
+
+Formación
+Grado en Ingeniería Informática, Universitat Politècnica de Catalunya (2021 — 2025)

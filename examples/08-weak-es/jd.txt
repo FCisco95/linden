@@ -1,0 +1,21 @@
+Ingeniero(a) DevOps Senior — Plataforma Kubernetes
+
+Buscamos un(a) Ingeniero(a) DevOps Senior para liderar nuestra plataforma de Kubernetes interna, usada por ~35 equipos de producto.
+
+Responsabilidades
+- Mantener y evolucionar nuestros clusters GKE multi-región (~4.500 pods en producción)
+- Owner del stack de observabilidad: Prometheus, Grafana, Loki, Tempo
+- Definir y mantener el platform-as-a-product: Helm charts internos, operadores, plantillas para equipos de producto
+- Diseñar y operar la pipeline de despliegue (ArgoCD) y la política de promoción entre entornos
+- Participar en la rotación de on-call de plataforma
+- Liderar incidentes críticos y escribir post-mortems
+
+Requisitos
+- 5+ años en infraestructura cloud, mínimo 3 con Kubernetes en producción a escala
+- Experiencia operando GKE, EKS o AKS (no solo minikube/kind)
+- Profundidad en observabilidad: instrumentación, SLOs, alerting saludable
+- Terraform y Helm en producción
+- GitOps con ArgoCD o Flux
+- Capacidad para tratar la plataforma como producto (roadmap, deprecaciones, comunicación con equipos consumidores)
+
+Localización: Madrid o Barcelona (híbrido), o remoto en España.

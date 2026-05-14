@@ -1,0 +1,20 @@
+Senior Frontend Engineer — Design System
+
+We're building the next iteration of our internal design system and need a Senior Frontend Engineer to lead the component library, accessibility posture, and rollout to product teams.
+
+Responsibilities
+- Own the React + TypeScript component library (~80 components today)
+- Drive a11y compliance to WCAG 2.2 AA across all components
+- Maintain Storybook docs and the visual regression test suite (Chromatic)
+- Partner with the Design team on tokens, theming, motion specs
+- Land changes that ship safely to 6 product surfaces
+
+Requirements
+- 5+ years professional frontend engineering
+- Deep React + TypeScript, including hooks, context, suspense, server components familiarity
+- Demonstrated a11y work: ARIA patterns, screen-reader testing, keyboard nav, colour contrast
+- Storybook + visual regression tooling experience
+- Strong CSS: layout, custom properties, theming systems
+- Comfort owning a library consumed by other engineers (semver, deprecations, migration guides)
+
+Location: Remote (Europe time zones).

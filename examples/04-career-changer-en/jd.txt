@@ -1,0 +1,23 @@
+Product Manager — Developer Tools
+
+We're hiring a PM to own our CLI and SDK surface area. Engineers are our users; clarity, sharp opinions and empathy for developer workflows matter more than enterprise-PM polish.
+
+Responsibilities
+- Own the roadmap for the CLI and TypeScript SDK
+- Talk to power users weekly; read GitHub issues; pair with DevRel on docs
+- Write tight specs, RFCs, and product briefs
+- Partner with engineering on tradeoffs (DX vs. surface area vs. backwards compatibility)
+
+Requirements
+- 3+ years in product management OR a strong engineering background plus clear PM intent
+- Comfort writing specs and RFCs that engineers actually want to read
+- Track record of shipping (open source, internal tooling, side projects count)
+- Strong written communication
+- Empathy for developer workflows — you know what a good error message looks like
+
+Nice to have
+- Prior IC engineering experience
+- Open source maintenance
+- Familiarity with our space (CI/CD, DevTools, observability)
+
+Location: Remote.

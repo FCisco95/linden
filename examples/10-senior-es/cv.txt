@@ -1,0 +1,30 @@
+Esteban Quiroga del Hierro
+VP Engineering · Madrid
+esteban.quiroga@example.com
+
+Resumen
+18 años en ingeniería de software, 9 en roles de liderazgo de personas. Actualmente VP Engineering en una scale-up B2B SaaS (~280 colaboradores, ~140 en ingeniería). Busco mi siguiente paso, idealmente como Director(a) o VP en una unidad técnica más enfocada.
+
+Experiencia
+
+Marevista Tech — VP Engineering (2022 — actualidad)
+- Lidero la organización completa de ingeniería: 140 personas, 5 directores reportando directamente, 14 engineering managers en total.
+- Conduje el plan de hiring de 2023 (+40 personas net) y el de 2024 (+18, con foco en seniority).
+- Co-autor del plan de transición de monolito a microsservicios; supervisión de la ejecución sin ser arquitecto.
+- Miembro del comité técnico de la compañía (CTO, CPO, VP Eng, VP Data).
+- Presentación trimestral al board sobre estado de ingeniería, riesgos y dependencias críticas.
+
+Marevista Tech — Director of Engineering, Platform (2019 — 2022)
+- Lideré la unidad de Plataforma (60 personas, 4 EMs). Definí el OKR trimestral durante 12 trimestres consecutivos.
+- Conduje 3 ciclos completos de performance review y calibración.
+- Promocioné a 5 IC senior a EM durante mi mandato.
+
+Helios Consulting — Engineering Manager (2015 — 2019)
+- Manager de un equipo backend de 8 personas. Primer rol de management formal.
+
+Helios Consulting — Tech Lead → Senior Software Engineer (2010 — 2015)
+- Liderazgo técnico de equipos pequeños (3-5 ICs).
+
+Formación
+MSc Computer Science, Universidad Politécnica de Madrid (2008)
+MBA Executive, IE Business School (2018)

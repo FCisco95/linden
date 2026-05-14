@@ -1,0 +1,21 @@
+Director(a) de Ingeniería — Plataforma Cloud
+
+Buscamos un(a) Director(a) de Ingeniería para liderar nuestra unidad de Plataforma Cloud (~45 personas, 6 squads). Esta persona reportará al CTO y participará en el comité técnico de la compañía.
+
+Responsabilidades
+- Liderazgo de personas: 6 engineering managers reportan directamente, ~45 IC indirectos
+- Definir y operar el OKRs trimestral de la unidad
+- Conducir el budgeting anual de la unidad (capacity planning + hiring plan)
+- Representar la unidad ante stakeholders senior (producto, finanzas, board)
+- Participar en decisiones arquitecturales de alto nivel, sin ser el/la decisor/a técnico/a en el día a día
+- Mentor de los engineering managers; promociones de IC senior a EM
+
+Requisitos
+- 4+ años de experiencia en liderazgo de equipos de ingeniería con managers reportando (no solo IC senior con personas reportando informalmente)
+- Track record demostrable de gestionar unidades de 30+ personas
+- Experiencia conduciendo procesos de performance review, calibración y promociones
+- Comodidad en conversaciones de board y exec, escribiendo briefings ejecutivos
+- Fondo técnico sólido — esperamos opinión informada en arquitectura, sin pretender ser el/la arquitecto/a principal
+- Inglés profesional (la mitad del leadership team es internacional)
+
+Localización: Madrid (4 días/semana presencial).

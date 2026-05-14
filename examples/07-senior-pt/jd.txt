@@ -1,0 +1,23 @@
+Engenheiro(a) Full-Stack — Produto (mid-level)
+
+Estamos numa fase inicial (~15 pessoas, Series A) e procuramos um(a) Engenheiro(a) Full-Stack para entrar na equipa de produto. Vais trabalhar lado-a-lado com o CTO e um designer numa cadência semanal de ship.
+
+Responsabilidades
+- Implementar features end-to-end: backend (Node.js + Postgres) e frontend (React + TypeScript)
+- Cadência rápida: media de 3-4 PRs/semana, ship para produção quase diário
+- Conversar directamente com utilizadores (somos pequenos, todos falam com clientes)
+- Contribuir para discussões de produto, não apenas execução
+
+Requisitos
+- 3-5 anos de experiência profissional como engenheiro de software
+- Conforto a trabalhar end-to-end (não procuramos especialistas profundos numa única camada)
+- TypeScript em produção, preferencialmente em Node + React
+- Pragmatismo: comprometer com decisões "boas o suficiente" em vez de procurar a arquitectura perfeita
+- Curiosidade pelo produto e pelos utilizadores
+
+NÃO procuramos
+- Perfis muito séniores que querem liderar equipas — não temos hierarquia para oferecer
+- Especialistas backend ou frontend "puros" que preferem ficar numa camada
+- Quem prefira ambientes corporativos estruturados
+
+Localização: Remoto (Portugal). Encontro presencial trimestral em Lisboa.

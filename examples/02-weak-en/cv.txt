@@ -1,0 +1,23 @@
+Theo Marsden
+Frontend Engineer · Manchester, UK
+theo.marsden@example.com
+
+Summary
+4 years building React applications. Comfortable with TypeScript and component-based UIs. Looking for a senior role with more ownership.
+
+Experience
+
+Nordlight Apps — Frontend Engineer (2022 — present)
+- React + TypeScript SPA for a B2C wellness product. ~30 screens, single product surface.
+- Refactored the booking flow to use React Query and reduced re-renders by ~40%.
+- Owned the marketing landing pages built in Next.js.
+
+Brindle Studio — Frontend Developer (2020 — 2022)
+- Built Shopify storefront customisations. React, Liquid, some Vue on legacy projects.
+- Some accessibility audits using axe DevTools but no formal WCAG project.
+
+Stack
+React, TypeScript, Next.js, Tailwind, React Query, some Storybook. CSS Grid/Flexbox confident. Limited experience with design tokens or theming systems.
+
+Education
+BA Digital Media, Manchester Met (2019)

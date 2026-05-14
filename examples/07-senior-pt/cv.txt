@@ -1,0 +1,34 @@
+Henrique Sá Pessoa
+Principal Engineer · Lisboa
+h.sapessoa@example.com
+
+Resumo
+14 anos de experiência. Últimos 5 como Principal Engineer numa multinacional (12.000+ colaboradores). Foco em arquitectura distribuída e mentoria técnica transversal.
+
+Experiência
+
+Vermilion Tech — Principal Engineer (2020 — atual)
+- Arquitecto principal da plataforma de identidade (~40 microsserviços, 50M utilizadores).
+- Lidero o Architecture Review Board (decide RFCs cross-org, 8 staff/principal engineers).
+- Mentor formal de 7 Staff Engineers de várias verticais.
+- Autor de 4 ADRs adoptados como padrão corporativo (autenticação, observabilidade, multi-tenancy, secrets management).
+- Apresentações regulares em conferências internas; speaker no QCon Lisbon 2023.
+
+Vermilion Tech — Staff Engineer (2017 — 2020)
+- Re-architecture do serviço de billing. Migração de monólito para microsserviços ao longo de 18 meses sem downtime.
+
+Atlas Telecom — Senior Software Engineer (2012 — 2017)
+- Sistemas de provisionamento. Java, Oracle, JMS.
+
+Atlas Telecom — Software Engineer (2010 — 2012)
+- Onboarding técnico, depois trabalho em backend de billing.
+
+Áreas de especialização
+Arquitectura de sistemas distribuídos, identidade e acesso (OAuth2, OIDC, SAML), observabilidade (OpenTelemetry), governance técnica em escala.
+
+Stack
+Java, Go, Kotlin, Postgres, Kafka, Kubernetes, Terraform. TypeScript usado em projectos pessoais; React experimentado mas não em produção.
+
+Formação
+Mestrado em Engenharia Electrotécnica e de Computadores, IST (2010)
+Vários certificados AWS (Solutions Architect Professional, Security Specialty)

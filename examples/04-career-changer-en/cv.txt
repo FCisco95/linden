@@ -1,0 +1,31 @@
+Ari Lindqvist
+Senior Software Engineer · Stockholm
+ari.lindqvist@example.com · github.com/arilq
+
+Summary
+9 years as a backend engineer. Last 18 months I've shifted toward product work — driving roadmap conversations, writing RFCs, and running customer interviews. Looking to make the formal move into a PM role on a developer-tools team.
+
+Experience
+
+Stackpoint — Senior Backend Engineer / Product Lead, CLI (2022 — present)
+- Maintainer of the Stackpoint CLI (~12k weekly active users, 4.1k GitHub stars).
+- Wrote the RFC process the team adopted. Authored 11 of the 23 RFCs shipped in 2023-2024.
+- Ran a 30-customer discovery cycle on the SDK v3 redesign. Synthesised findings into the product brief; the brief shipped largely as written.
+- Reduced support ticket volume by 35% by rewriting the error-message taxonomy.
+
+Stackpoint — Senior Backend Engineer (2020 — 2022)
+- Go backend services. Authored the auth re-architecture (oauth2 + scoped tokens).
+
+Vinge Labs — Software Engineer (2016 — 2020)
+- Python + Django web apps. Some open-source contributions to httpx and pytest.
+
+Open source
+- Stackpoint CLI (maintainer)
+- ~30 merged contributions across httpx, pytest, gh-cli over the last 5 years
+- Wrote "Why your CLI's error messages matter" — 11k views, cited in 3 conference talks
+
+Note
+No formal PM job title yet, but the work above is what convinced me to make the move. Happy to share writing samples.
+
+Education
+MSc Computer Science, KTH (2015)

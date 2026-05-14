@@ -9,15 +9,17 @@ A living document. Phases 0–3 are scoped; everything below "Future" is registe
 - Folder layout, docs, license, .gitignore
 - No code yet
 
-## Phase 1 — Core evaluation skill (target: week of 2026-05-19)
+## Phase 1 — Core evaluation skill (✅ scaffolded 2026-05-13; live smoke test pending)
+
 **Goal: a working `evaluate()` function tested on 10 real CV/JD pairs from the CLI, before any UI exists.**
 
-- `packages/core/`: `evaluate()` + Zod schema for `MatchResult`
-- `packages/providers/`: `AnthropicProvider` only (defer OpenAI)
-- Prompt design — English + Portuguese variants
-- Hard constraint: `recruiter_next_steps` never contains "reject" verbs (unit tested)
-- CLI runner: `pnpm eval -- --cv path/to/cv.pdf --jd path/to/jd.txt`
-- 10 synthetic CV/JD pairs in `examples/` covering: strong match, weak match, gap match, career changer, junior, senior
+- ✅ `packages/core/`: `evaluate()` + Zod schema for `MatchResult`
+- ✅ `packages/providers/`: `AnthropicProvider` **and** `OpenAIProvider` (OpenAI pulled forward from Phase 2 — friend may have either key)
+- ✅ Prompt design — English, Portuguese **and Spanish** variants (ES pulled forward; was originally future)
+- ✅ Hard constraint: `recruiter_next_steps` never contains rejection verbs — embedded inline in each system prompt + `RejectionVerbViolation` defense-in-depth in `evaluate()` + 12 negative-fixture unit tests across EN/PT/ES (59 tests total, all green)
+- ✅ CLI runner: `pnpm eval -- --cv path --jd path --language en|pt|es --provider anthropic|openai`
+- ✅ 10 synthetic CV/JD pairs in `examples/` covering strong / weak / gap / junior / senior / career-changer (4 EN + 3 PT + 3 ES)
+- ⏳ Live smoke test against a real API key — needs human judgement on whether the outputs feel right
 
 **Done when:** Cisco's friend (or Cisco) can run the CLI on 10 pairs and the outputs feel right.
 

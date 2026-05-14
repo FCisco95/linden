@@ -1,0 +1,27 @@
+Filipa Cardoso Mendes
+Engenheira de Dados Sénior · Porto (aberta a remoto)
+filipa.cardoso@example.com · linkedin.com/in/filipacardoso
+
+Resumo
+7 anos a construir plataformas de dados. Últimos 4 anos como tech lead da plataforma de analytics na Pollen (marketplace B2B, ~300 colaboradores). Foco em pipelines confiáveis, modelagem clara e em desbloquear equipas de produto.
+
+Experiência
+
+Pollen — Tech Lead, Plataforma de Dados (2022 — atual)
+- Lidero uma equipa de 4 engenheiros de dados. Stack: Airflow, dbt, Snowflake, Python.
+- Reduzi a frescura dos dados críticos (vendas, retenção) de 8h para 90 minutos através de incrementalização sistemática dos modelos dbt e refactor de DAGs encadeadas.
+- Defini e implementei o padrão staging/intermediate/marts adoptado em toda a plataforma (~180 DAGs hoje).
+- Implementei testes de qualidade dbt + Soda; cobertura passou de 20% para 85% dos modelos marts.
+- Reviews semanais de RFCs internos de modelagem.
+
+Pollen — Engenheira de Dados Sénior (2020 — 2022)
+- Migrei pipelines de Redshift para Snowflake. Reduzi o custo mensal de armazenamento em ~40% via clustering keys e zero-copy clones para ambientes de dev.
+
+Mindshift Analytics — Engenheira de Dados (2017 — 2020)
+- Pipelines em Airflow + Spark sobre AWS para um cliente de retalho. CDC via Debezium para Postgres → S3 → Snowflake.
+
+Stack
+SQL avançado (Snowflake, BigQuery), dbt (mantenho ~400 modelos), Airflow, Python, Soda, Looker (LookML). Inglês profissional, espanhol intermédio.
+
+Formação
+Licenciatura em Engenharia Informática, FEUP (2016)

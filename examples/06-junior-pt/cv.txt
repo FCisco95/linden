@@ -1,0 +1,26 @@
+Rui Albuquerque
+Engenheiro de Software · Lisboa
+rui.albuquerque@example.com · github.com/ruialb
+
+Resumo
+2 anos e meio de experiência profissional em desenvolvimento Java. Procuro o próximo passo na minha carreira, idealmente uma posição com mais responsabilidade técnica.
+
+Experiência
+
+NimbusCare — Engenheiro de Software (2023 — atual)
+- Desenvolvimento de microsserviços em Java (Spring Boot) para uma plataforma de teleconsulta.
+- Implementação de endpoints REST, persistência com JPA/Postgres, integração com Kafka para eventos.
+- Participação activa em code reviews.
+- Mentor informal de um estagiário durante 3 meses no último verão.
+
+NimbusCare — Engenheiro Júnior (2022 — 2023)
+- Onboarding na stack. Primeiras tasks: bugfixes, testes unitários, melhorias em endpoints existentes.
+
+Estágio curricular — Banco Atlas (2021, 6 meses)
+- Trabalhei numa pequena equipa de integrações internas. Java + Spring.
+
+Stack
+Java (Spring Boot, JPA, JUnit), Postgres, Kafka, Git, Jenkins. Familiarizado com Docker; comecei a estudar Kubernetes este ano.
+
+Formação
+Mestrado Integrado em Engenharia Informática, IST (2021)

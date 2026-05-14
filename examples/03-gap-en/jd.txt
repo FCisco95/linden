@@ -1,0 +1,23 @@
+Machine Learning Engineer — Recommendation Systems
+
+We're scaling our recommendation surface (homepage, search results, related products) and hiring an ML Engineer to own the next-generation ranking model in production.
+
+Responsibilities
+- Train, evaluate, and ship ranking models (currently gradient-boosted; moving to a two-tower neural ranker)
+- Own the feature pipeline: backfills, online feature store, drift monitoring
+- Run online A/B tests, measure causal impact on GMV
+- Partner with infra on serving latency budgets (p95 under 60ms)
+
+Requirements
+- 4+ years building production ML systems (not Kaggle, not pure research)
+- Strong Python; comfort with PyTorch or TensorFlow on real workloads
+- Feature engineering for ranking: implicit feedback signals, negatives, leakage avoidance
+- Experimentation: A/B test design, power analysis, reading lift CIs correctly
+- Working knowledge of recommender model families (matrix factorisation, two-tower, sequence models)
+
+Nice to have
+- Online feature store experience (Feast, Tecton, in-house)
+- Vector retrieval (FAISS, ScaNN, Qdrant)
+- Bandits / contextual bandits
+
+Location: Remote (UTC ±3).

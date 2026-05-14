@@ -1,0 +1,20 @@
+Engenheiro(a) de Software Sénior — Backend (Java)
+
+Procuramos um(a) Engenheiro(a) de Software Sénior para liderar tecnicamente o nosso domínio de Faturação. Sistema crítico, processa ~€80M/mês em transacções.
+
+Responsabilidades
+- Liderar tecnicamente uma equipa de 5 engenheiros
+- Conduzir revisões de arquitectura e ADRs
+- Owner do domínio de Faturação (~12 microsserviços em Java/Spring Boot)
+- Mentor de engenheiros mid-level
+- Participar na rotação de on-call e nos post-mortems formais
+
+Requisitos
+- 7+ anos de experiência em desenvolvimento backend
+- Forte em Java (Spring Boot, JPA, Kafka) e arquitectura de microsserviços
+- Experiência comprovada a liderar tecnicamente equipas (≥3 pessoas)
+- Conhecimento profundo de bases de dados relacionais (Postgres ou Oracle) em produção a escala
+- Capacidade de comunicar tradeoffs arquitecturais por escrito (ADRs, RFCs)
+- Experiência em domínios regulados (financeiro, fintech, saúde) é uma vantagem
+
+Localização: Lisboa (presencial 3 dias/semana).

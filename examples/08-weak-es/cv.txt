@@ -1,0 +1,27 @@
+Diego Vallejo Sánchez
+Administrador de Sistemas / DevOps · Valencia
+diego.vallejo@example.com
+
+Resumen
+8 años en infraestructura. Empecé como administrador de sistemas Linux, últimos 3 años haciendo trabajo DevOps en un entorno tradicional (VMs, sin Kubernetes).
+
+Experiencia
+
+Grupo Carma — Ingeniero DevOps (2021 — actualidad)
+- Mantengo ~120 VMs en VMware vSphere para una empresa de logística mid-market.
+- Pipelines de despliegue en Jenkins (no GitOps).
+- Monitorización con Zabbix y un poco de Grafana sobre Prometheus, pero sin instrumentación de aplicaciones.
+- He hecho 2 pruebas de concepto con Docker Swarm, no llegaron a producción.
+- Lectura del libro "Kubernetes Up & Running" + curso de Udemy completado este año. Tengo un cluster k3s en casa.
+
+Grupo Carma — Administrador de Sistemas Linux (2017 — 2021)
+- Onboarding, parches de seguridad, automatización con Ansible y bash.
+
+Sistemas Tagus — Soporte de Infraestructura (2016 — 2017)
+- Soporte de primera línea, ticketing.
+
+Stack
+Linux, Ansible, Bash, VMware, Jenkins, Zabbix, algo de Prometheus + Grafana. Estudiando Kubernetes pero sin experiencia productiva. Sin experiencia con Terraform en proyectos grandes (solo módulos pequeños).
+
+Formación
+Grado Superior de Administración de Sistemas Informáticos en Red (2015)
